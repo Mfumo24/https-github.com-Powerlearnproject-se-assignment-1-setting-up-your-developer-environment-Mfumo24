@@ -58,9 +58,6 @@ This assignment aims to familiarize you with the tools and configurations necess
  
 
 
-
-
-
 5. Install Package Managers:
    If applicable, install package managers like pip (Python).
 
@@ -114,8 +111,6 @@ This are some of the tools you can use to set up environment virtual
 - VMware
 
 
-
-
 9. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
@@ -124,36 +119,4 @@ Documenting your setup is essential for several reasons:
 - Knowledge retention: By writing down the steps you've taken, you'll retain the knowledge and avoid forgetting crucial details.
 - Reproducibility: Your documentation will allow you to reproduce the setup in case you need to recreate the environment or troubleshoot  issues.
 - Collaboration: If you're working in a team, documentation helps your colleagues understand the setup and make changes or updates.
-- Future reference: You'll have a valuable resource for future projects or when upgrading your setup.
-
-Include the following in your documentation:
-
--Software versions: List the versions of the software, tools, and libraries you've installed.
--Configurations: Document any custom configurations, such as environment variables, settings, or tweaks.
--Customizations: Note any custom scripts, plugins, or modifications you've made.
--Troubleshooting steps: Record any issues you encountered and the steps you took to resolve them.
--Tips and tricks: Add any useful tips or workarounds you discovered during the setup process.
-
-Use a clear and concise format, such as a Markdown file or a wiki page, and store it in a safe place, like a version control repository or a cloud storage service.
-
-
-
-
-
-
-#Deliverables:
-- Document detailing the setup process with step-by-step instructions and screenshots where necessary.
-- A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
-- A reflection on the challenges faced during setup and strategies employed to overcome them.
-
-#Submission:
-Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
-
-#Evaluation Criteria:**
-- Completeness and accuracy of setup documentation.
-- Effectiveness of version control implementation.
-- Appropriateness of tools selected for the project requirements.
-- Clarity of reflection on challenges and solutions encountered.
-- Adherence to submission guidelines and deadlines.
-
-Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+- Future reference: You'll have a valuable resource for future projects or when upgrading your set
